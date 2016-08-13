@@ -1,6 +1,4 @@
 # hello-world
-
-Heading
 =======
 Sub-heading
 -----------
